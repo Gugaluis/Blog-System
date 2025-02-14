@@ -8,10 +8,7 @@ Um usuário chamado **Admin** pode manter as regras de boa convivência excluind
 
 ## Imagem do Projeto 🌟
 
-<p align="center">
-  <img src="public/assets/images/blog-system.png" alt="Blog System">
-</p> 
-
+![Login Page](public/assets/images/blog-system.png)
 ![Home Page](public/assets/images/home-blog-system.png)
 
 ## Pré-requisitos
